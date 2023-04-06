@@ -1,1 +1,1 @@
-# GraphQL-Social
+# GraphQL-ReactHooks
